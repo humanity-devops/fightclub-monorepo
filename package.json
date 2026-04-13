@@ -1,0 +1,5 @@
+{
+  "name": "fightclub-monorepo",
+  "private": true,
+  "workspaces": ["backend", "frontend"]
+}
